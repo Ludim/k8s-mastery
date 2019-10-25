@@ -1,5 +1,5 @@
 ## Install dependencies
-` $ npm install
+` $ npm install `
 
 ## Starting the Web App Locally
 ` $ yarn start `
